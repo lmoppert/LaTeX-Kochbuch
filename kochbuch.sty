@@ -1,0 +1,70 @@
+%
+% -----------------------------------------------------------------------------
+%  Vorlage für Rezepte                                % vim:sw=2:ts=2:syn=tex
+% -----------------------------------------------------------------------------
+%  Benötigte Pakete
+%
+  \usepackage{cmap}
+  \usepackage[ngerman]{babel}
+  \usepackage[utf8]{inputenc}
+  \usepackage[T1]{fontenc}
+  \usepackage{lmodern}
+  \usepackage{marvosym}
+  \usepackage[dvipsnames]{xcolor}
+  \usepackage{scrpage2}
+  \usepackage{nicefrac}
+  \usepackage{makeidx}
+  \usepackage{ifthen}
+  \usepackage{hyperref}
+%
+% -----------------------------------------------------------------------------
+%  Neue Befehle
+%
+  \newcommand{\halb}{\nicefrac{1}{2}~}
+  \newcommand{\drittel}{\nicefrac{1}{3}~}
+  \newcommand{\viertel}{\nicefrac{1}{4}~}
+  \newcommand{\achtel}{\nicefrac{1}{8}~}
+  \newcommand{\dreiviertel}{\nicefrac{3}{4}~}
+  \newcommand{\celsius}{$^\circ$C~}
+  \newcommand{\inglist}[1][Zutaten:]{\textbf{\textcolor{Mahogany}{ #1}}\\} 
+  \newcommand{\showindex}{
+    \newpage
+    \ifthenelse{\isodd{\thepage}}{~ \newpage}{}
+    \cleardoublepage
+    \printindex
+  }
+  \newcommand{\category}[1]{
+    \newpage
+    \ifthenelse{\isodd{\thepage}}{~ \newpage}{}
+    \addchap{#1}
+    \newpage
+  }
+  \newcommand{\steps}{
+    \end{minipage}
+    \hspace*{0.6cm}
+    \begin{minipage}[t]{0.6\textwidth}
+      \setlength{\parskip}{2ex plus1ex minus0.5ex}
+  }
+  \DeclareRobustCommand*{\ingredient}[1]{ #1\\}
+  \newenvironment{recipe}[2]{
+    \addsec[#1]{{\huge #1}\\\qquad #2}\index{#1}
+    \begin{minipage}[t]{0.3\textwidth}
+    \small
+  }{
+    \end{minipage}
+    ~\\[.5 cm] 
+  } 
+%
+% -----------------------------------------------------------------------------
+%  Formatierungen 
+%
+\addtokomafont{chapter}{\fontfamily{iwona}\color{Mahogany}\Huge}
+\addtokomafont{section}{\fontfamily{iwona}\selectfont\color{Mahogany}}
+\pagestyle{scrheadings}
+  \ohead[]{\leftmark}
+  \addtokomafont{pagenumber}{\color{Mahogany}}
+  \addtokomafont{pageheadfoot}{\color{Mahogany}}
+  \automark[]{chapter}
+\makeindex
+%
+% -----------------------------------------------------------------------------

@@ -1,0 +1,45 @@
+%
+% -----------------------------------------------------------------------------
+%  Vorlage für Rezepte                                         % vim:sw=2:ts=2
+% -----------------------------------------------------------------------------
+%
+\documentclass[11pt, a4paper, toc=index, twoside, DIV12]{scrbook} 
+  \usepackage{kochbuch}
+  \definecolor{darkblue}{rgb}{0,0,.5}
+  \usepackage[% muss letztes Package sein!
+    pdftitle={Moppels Rezeptsammlung},
+    pdfauthor={Lutz Moppert},
+    pdfsubject={Kochen mit Spaß},
+    pdfcreator={PDFLaTeX},
+    pdfproducer={MikTeX},
+    colorlinks,
+    hyperindex,
+    pdfpagelayout=TwoPageRight,
+    urlcolor=darkblue,
+    linkcolor=darkblue]{hyperref}
+%
+%  Ende der Preambel
+% -----------------------------------------------------------------------------
+%
+\begin{document}
+% -----------------------------------------------------------------------------
+%  Kapitel
+%
+\begin{recipe}{Burritos}{Eine einfache Anleitung}
+  \inglist
+  \ingredient{Tortilla Wraps}
+  \ingredient{Tomaten}
+  \ingredient{Schnittlauch}
+  \ingredient{Schmand}
+  \ingredient{Parmesan}
+  \ingredient{Rinderhack}
+
+  \steps
+  Die Tomaten klein schneiden, in eine Schüssel geben und den Schnittlauch
+  zufügen. Mit Salz und Pfeffer würzen.
+
+  Einen Tortilla Wrap mit dem Schmand bestreichen, nach belieben Rinderhack,
+  Tomatensalat und Schafskäse dazu geben und das ganze einrollen.
+
+\end{recipe}
+\end{document}

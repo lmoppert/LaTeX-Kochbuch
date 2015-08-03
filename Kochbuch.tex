@@ -1,0 +1,146 @@
+%
+% -----------------------------------------------------------------------------
+%  Kochbuch - Moppels Rezeptsammlung                          % vim:sw=2:ts=2
+% -----------------------------------------------------------------------------
+%
+\documentclass[11pt, a4paper, toc=index, twoside, DIV12, BCOR10mm]{scrbook} 
+  \usepackage{kochbuch}
+  \hypersetup{
+    pdftitle={Moppels Rezeptsammlung},
+    pdfauthor={Lutz Moppert},
+    pdfsubject={Inspiriert von verschiedenen Sterneköchen},
+    }
+%
+%  Ende der Preambel
+% -----------------------------------------------------------------------------
+%
+\begin{document}
+%
+% -----------------------------------------------------------------------------
+%  Titelseite
+%
+%\titlehead{}
+\subject{\textcolor{Mahogany}{Gute Küche ganz einfach}}
+\title{\textcolor{Mahogany}{Moppels Rezeptsammlung}}
+\subtitle{\textcolor{Mahogany}{Inspiriert von verschiedenen Sterneköchen}}
+\author{\textcolor{Mahogany}{Lutz Moppert}}
+\date{}
+%\publishers{}
+%\and
+\dedication{Gewidmet meiner geliebten Frau Uta und unseren fröhlichen Kindern
+  Line und Tim, die alle Rezepte probiert und manchmal gelitten, es jedoch
+  meist genossen haben.}
+\maketitle
+\newpage
+\tableofcontents
+%
+% -----------------------------------------------------------------------------
+%  Kapitel
+%
+\category[Bilder/Gericht]{Gerichte}
+
+\category[Bilder/Grundlage]{Grundlagen}
+  \input{Grundlagen/Hollandaise}
+  \input{Grundlagen/Bearnaise}
+  \input{Grundlagen/Mayonnaise}
+  \newpage
+  \input{Grundlagen/Geflügelfond}
+  \input{Grundlagen/Fischsauce}
+\category[Bilder/Suppe.jpg]{Suppen \& Eintöpfe}
+  \input{Suppen/Chili_Con_Carne}
+  \input{Suppen/Serbische_Bohnensuppe}
+  \input{Suppen/Kartoffelsuppe}
+  \input{Suppen/Kürbis-Suppe}
+  \input{Suppen/Sauerampfersuppe}
+\category[Bilder/Vorspeise.jpg]{Vorspeisen \& Kleine Gerichte}
+  \input{Vorspeisen/Pizza}
+  \newpage
+  \input{Vorspeisen/Schiacciata}
+  \input{Vorspeisen/Tomatenbrot}
+  \newpage
+  \input{Vorspeisen/Ceasar_Chicken_Salat}
+  \input{Vorspeisen/Spargeltaschen}
+  \newpage
+  \input{Vorspeisen/Omelett}
+  \input{Vorspeisen/Pfannkuchen}
+  \input{Vorspeisen/Tsatsiki}
+\category[Bilder/Pasta.jpg]{Pasta \& Reis}
+  \input{Pasta/Ravioli}
+  \input{Pasta/Spaghetti_Napoline}
+  \newpage
+  \input{Pasta/Spaghetti_Carbonara}
+  \input{Pasta/Lasagne}
+  \newpage
+  \input{Pasta/Pasta_Mista}
+  \input{Pasta/Orecchiette}
+  \newpage
+  \input{Pasta/Käsespätzle}
+  \input{Pasta/Paprika_Risotto}
+  \newpage
+  \input{Pasta/Paella}
+  \input{Pasta/Paella_Valenciana}
+\category[Bilder/Gemüse.jpg]{Gemüse}
+  \input{Gemüse/Rotkohl}
+  \input{Gemüse/Fagioli}
+  \newpage
+  \input{Gemüse/Rosenkohl}
+  \input{Gemüse/Kohlrabi}
+\category[Bilder/Beilage.jpg]{Beilagen}
+  \input{Beilagen/Kartoffelgratin}
+  \input{Beilagen/Kartoffelplätzchen}
+  \newpage
+  \input{Beilagen/Bratkartoffeln}
+  \input{Beilagen/Reibekuchen}
+  \newpage
+  \input{Beilagen/Brezenknödel}
+  \input{Beilagen/Semmelknödel}
+  \newpage
+  \input{Beilagen/Frischkäse_Gnocchi}
+  \input{Beilagen/Quadrucci}
+\category[Bilder/Fisch.jpg]{Fisch \& Meeresfrüchte}
+  \input{Fisch/Gambas_al_ajillo}
+  \input{Fisch/Zander}
+  \newpage
+  \input{Fisch/Lachsfilet}
+\category[Bilder/Fleisch.jpg]{Fleisch}
+  \input{Fleisch/Rinderschmorbraten}
+  \newpage
+  \input{Fleisch/Sauerbraten}
+  \input{Fleisch/Rinder_Rouladen}
+  \newpage
+  \input{Fleisch/Gulasch}
+  \input{Fleisch/Lammcurry}
+  \newpage
+  \input{Fleisch/Agnello}
+  \input{Fleisch/Lammkeule}
+  \newpage
+  \input{Fleisch/Frikadellen}
+  \input{Fleisch/Wirsing_Rouladen}
+\category[Bilder/Wild.jpg]{Wild \& Geflügel}
+  \input{Wild/Coq_Au_Vin}
+  \input{Wild/Entenbrust}
+  \newpage
+  \input{Wild/Maispoularde}
+  \input{Wild/Kaninchenkeule}
+  \newpage
+  \input{Wild/Wildschweinrücken}
+\category[Bilder/Dessert.jpg]{Nachtisch}
+  \input{Nachtisch/Creme_Brulee}
+  \input{Nachtisch/Mandel_Zabaione}
+  \newpage
+  \input{Nachtisch/Tiramisu}
+  \input{Nachtisch/Mousse_au_Chocolat}
+\category[Bilder/Kuchen.jpg]{Gebäck}
+  \input{Gebäck/Hummelkuchen}
+  \input{Gebäck/Philadelphia_Torte}
+  \newpage
+  \input{Gebäck/Rotweinkuchen}
+  \input{Gebäck/Mutzen}
+  \newpage
+  \input{Gebäck/Muffins}
+  \input{Gebäck/Waffeln}
+  \newpage
+  \input{Gebäck/Spritzgebäck}
+  \newpage
+\showindex
+\end{document}
