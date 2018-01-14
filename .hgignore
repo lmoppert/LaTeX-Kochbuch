@@ -10,4 +10,5 @@ syntax: glob
 *.log
 *.out
 *.sw?
+*.toc
 
