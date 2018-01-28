@@ -86,7 +86,7 @@
 \contentsline {section}{\nonumberline Mandel-Zabaione}{62}{section*.86}
 \contentsline {section}{\nonumberline Tiramisu}{63}{section*.87}
 \contentsline {section}{\nonumberline Mousse au chocolat}{63}{section*.88}
-\contentsline {section}{\nonumberline Grie\IeC {\ss }brei}{64}{section*.89}
+\contentsline {section}{\nonumberline Grie{\ss }pudding}{64}{section*.89}
 \contentsline {chapter}{\nonumberline Geb\IeC {\"a}ck}{65}{chapter*.90}
 \contentsline {section}{\nonumberline Hummelkuchen}{66}{section*.91}
 \contentsline {section}{\nonumberline Philadelphia Torte}{66}{section*.92}
