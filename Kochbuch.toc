@@ -10,89 +10,95 @@
 \contentsline {section}{\nonumberline Gefl"ugelfond}{14}{section*.10}
 \contentsline {section}{\nonumberline Knoblauchcreme}{14}{section*.11}
 \contentsline {section}{\nonumberline Currysauce}{14}{section*.12}
-\contentsline {chapter}{\nonumberline Suppen \& Eint\IeC {\"o}pfe}{17}{chapter*.13}
-\contentsline {section}{\nonumberline Chili Con Carne}{18}{section*.14}
-\contentsline {section}{\nonumberline Serbische Bohnensuppe}{18}{section*.15}
-\contentsline {section}{\nonumberline Erbsensuppe}{19}{section*.16}
-\contentsline {section}{\nonumberline Kartoffelsuppe}{19}{section*.17}
-\contentsline {section}{\nonumberline K\IeC {\"u}rbis-Suppe}{20}{section*.18}
-\contentsline {section}{\nonumberline Sauerampfersuppe}{20}{section*.19}
-\contentsline {chapter}{\nonumberline Vorspeisen \& Kleine Gerichte}{21}{chapter*.20}
-\contentsline {section}{\nonumberline Pizza}{22}{section*.21}
-\contentsline {section}{\nonumberline Burritos}{22}{section*.22}
-\contentsline {section}{\nonumberline Schiacciata al Rosmarino}{23}{section*.23}
-\contentsline {section}{\nonumberline Tomatenbrot}{23}{section*.24}
-\contentsline {section}{\nonumberline Ceasar Chicken Salad}{24}{section*.25}
-\contentsline {section}{\nonumberline Spargel im Schlafrock}{24}{section*.26}
-\contentsline {section}{\nonumberline Omelett}{25}{section*.27}
-\contentsline {section}{\nonumberline Speckpfannkuchen}{25}{section*.28}
-\contentsline {section}{\nonumberline Tsatsiki}{25}{section*.29}
-\contentsline {section}{\nonumberline Rote Bete Salat}{26}{section*.30}
-\contentsline {section}{\nonumberline Fr\IeC {\"u}hst\IeC {\"u}cksei}{26}{section*.31}
-\contentsline {chapter}{\nonumberline Pasta \& Reis}{27}{chapter*.32}
-\contentsline {section}{\nonumberline Ravioli}{28}{section*.33}
-\contentsline {section}{\nonumberline Spaghetti Napoline}{28}{section*.34}
-\contentsline {section}{\nonumberline Spaghetti Carbonara}{29}{section*.35}
-\contentsline {section}{\nonumberline Lasagne}{29}{section*.36}
-\contentsline {section}{\nonumberline Pasta Mista}{30}{section*.37}
-\contentsline {section}{\nonumberline Orecchiette au Broccoletti}{30}{section*.38}
-\contentsline {section}{\nonumberline K\IeC {\"a}sesp\IeC {\"a}tzle}{31}{section*.39}
-\contentsline {section}{\nonumberline Paprika-Risotto}{31}{section*.40}
-\contentsline {section}{\nonumberline Paella}{32}{section*.41}
-\contentsline {section}{\nonumberline Paella Valenciana}{32}{section*.42}
-\contentsline {chapter}{\nonumberline Gem\IeC {\"u}se}{33}{chapter*.43}
-\contentsline {section}{\nonumberline Rotkohl}{34}{section*.44}
-\contentsline {section}{\nonumberline Kartoffel-Zucchini-Gratin}{34}{section*.45}
-\contentsline {section}{\nonumberline Fagioli all'Uccelletto}{35}{section*.46}
-\contentsline {section}{\nonumberline Rosenkohl}{35}{section*.47}
-\contentsline {section}{\nonumberline Kohlrabi}{35}{section*.48}
-\contentsline {section}{\nonumberline Gr\IeC {\"u}nkohl}{36}{section*.49}
-\contentsline {chapter}{\nonumberline Beilagen}{37}{chapter*.50}
-\contentsline {section}{\nonumberline Kartoffellpl\IeC {\"a}tzchen}{38}{section*.51}
-\contentsline {section}{\nonumberline Semmelkn\IeC {\"o}del}{38}{section*.52}
-\contentsline {section}{\nonumberline Brezen-Kn"odel}{39}{section*.53}
-\contentsline {section}{\nonumberline Kn\IeC {\"o}del mit Wirsing}{39}{section*.54}
-\contentsline {section}{\nonumberline Bratkartoffeln}{40}{section*.55}
-\contentsline {section}{\nonumberline Reibekuchen}{40}{section*.56}
-\contentsline {section}{\nonumberline Frischk"ase Gnocchi}{40}{section*.57}
-\contentsline {section}{\nonumberline Quadrucci di Patate al Finocchio}{41}{section*.58}
-\contentsline {chapter}{\nonumberline Fisch \& Meeresfr\IeC {\"u}chte}{43}{chapter*.59}
-\contentsline {section}{\nonumberline Gambas al ajillo}{44}{section*.60}
-\contentsline {section}{\nonumberline Zander an Rahmkraut}{44}{section*.61}
-\contentsline {section}{\nonumberline Lachsfilet}{45}{section*.62}
-\contentsline {section}{\nonumberline Lachsr\IeC {\"o}llchen}{45}{section*.63}
-\contentsline {section}{\nonumberline Gew\IeC {\"u}rzlachs}{46}{section*.64}
-\contentsline {chapter}{\nonumberline Fleisch}{47}{chapter*.65}
-\contentsline {section}{\nonumberline Rinderschmorbraten}{48}{section*.66}
-\contentsline {section}{\nonumberline Rinderrouladen}{49}{section*.67}
-\contentsline {section}{\nonumberline Rheinischer Sauerbraten}{50}{section*.68}
-\contentsline {section}{\nonumberline Gulasch}{51}{section*.69}
-\contentsline {section}{\nonumberline Indisches Lammcurry}{51}{section*.70}
-\contentsline {section}{\nonumberline Agnello in Fricassea}{52}{section*.71}
-\contentsline {section}{\nonumberline Lammkeule}{52}{section*.72}
-\contentsline {section}{\nonumberline Frikadellen}{53}{section*.73}
-\contentsline {section}{\nonumberline Wirsing-Rouladen}{53}{section*.74}
-\contentsline {chapter}{\nonumberline Wild \& Gefl\IeC {\"u}gel}{55}{chapter*.75}
-\contentsline {section}{\nonumberline Coq Au Vin}{56}{section*.76}
-\contentsline {section}{\nonumberline Geschmorte Poularde}{56}{section*.77}
-\contentsline {section}{\nonumberline Paprika Huhn}{57}{section*.78}
-\contentsline {section}{\nonumberline H\IeC {\"a}hnchenbrust auf K\IeC {\"u}rbisp\IeC {\"u}ree}{57}{section*.79}
-\contentsline {section}{\nonumberline Estragonhuhn}{58}{section*.80}
-\contentsline {section}{\nonumberline Gebratene Entenbrust}{59}{section*.81}
-\contentsline {section}{\nonumberline Geschmorte Kaninchen-Keule}{59}{section*.82}
-\contentsline {section}{\nonumberline Wildschwein-R\IeC {\"u}cken}{60}{section*.83}
-\contentsline {chapter}{\nonumberline Nachtisch}{61}{chapter*.84}
-\contentsline {section}{\nonumberline Cr\IeC {\`e}me Brul\IeC {\'e}e}{62}{section*.85}
-\contentsline {section}{\nonumberline Mandel-Zabaione}{62}{section*.86}
-\contentsline {section}{\nonumberline Tiramisu}{63}{section*.87}
-\contentsline {section}{\nonumberline Mousse au chocolat}{63}{section*.88}
-\contentsline {section}{\nonumberline Grie{\ss }pudding}{64}{section*.89}
-\contentsline {chapter}{\nonumberline Geb\IeC {\"a}ck}{65}{chapter*.90}
-\contentsline {section}{\nonumberline Hummelkuchen}{66}{section*.91}
-\contentsline {section}{\nonumberline Philadelphia Torte}{66}{section*.92}
-\contentsline {section}{\nonumberline Rotweinkuchen}{67}{section*.93}
-\contentsline {section}{\nonumberline Mutzen}{67}{section*.94}
-\contentsline {section}{\nonumberline Muffins}{68}{section*.95}
-\contentsline {section}{\nonumberline Waffeln}{68}{section*.96}
-\contentsline {section}{\nonumberline Spritzgeb\IeC {\"a}ck}{69}{section*.97}
-\contentsline {chapter}{\nonumberline Index}{71}{chapter*.98}
+\contentsline {section}{\nonumberline Grillmarinade}{15}{section*.13}
+\contentsline {section}{\nonumberline Erdnusssauce}{15}{section*.14}
+\contentsline {chapter}{\nonumberline Suppen \& Eint\IeC {\"o}pfe}{17}{chapter*.15}
+\contentsline {section}{\nonumberline Chili Con Carne}{18}{section*.16}
+\contentsline {section}{\nonumberline Serbische Bohnensuppe}{18}{section*.17}
+\contentsline {section}{\nonumberline Erbsensuppe}{19}{section*.18}
+\contentsline {section}{\nonumberline Kartoffelsuppe}{19}{section*.19}
+\contentsline {section}{\nonumberline K\IeC {\"u}rbis-Suppe}{20}{section*.20}
+\contentsline {section}{\nonumberline Sauerampfersuppe}{20}{section*.21}
+\contentsline {chapter}{\nonumberline Vorspeisen \& Kleine Gerichte}{21}{chapter*.22}
+\contentsline {section}{\nonumberline Pizza}{22}{section*.23}
+\contentsline {section}{\nonumberline Burritos}{22}{section*.24}
+\contentsline {section}{\nonumberline Schiacciata al Rosmarino}{23}{section*.25}
+\contentsline {section}{\nonumberline Tomatenbrot}{23}{section*.26}
+\contentsline {section}{\nonumberline Ceasar Chicken Salad}{24}{section*.27}
+\contentsline {section}{\nonumberline Spargel im Schlafrock}{24}{section*.28}
+\contentsline {section}{\nonumberline Omelett}{25}{section*.29}
+\contentsline {section}{\nonumberline Speckpfannkuchen}{25}{section*.30}
+\contentsline {section}{\nonumberline Tsatsiki}{25}{section*.31}
+\contentsline {section}{\nonumberline Rote Bete Salat}{26}{section*.32}
+\contentsline {section}{\nonumberline Fr\IeC {\"u}hst\IeC {\"u}cksei}{26}{section*.33}
+\contentsline {chapter}{\nonumberline Pasta \& Reis}{27}{chapter*.34}
+\contentsline {section}{\nonumberline Ravioli}{28}{section*.35}
+\contentsline {section}{\nonumberline Spaghetti Napoline}{28}{section*.36}
+\contentsline {section}{\nonumberline Spaghetti Carbonara}{29}{section*.37}
+\contentsline {section}{\nonumberline Lasagne}{29}{section*.38}
+\contentsline {section}{\nonumberline Pasta Mista}{30}{section*.39}
+\contentsline {section}{\nonumberline Orecchiette au Broccoletti}{30}{section*.40}
+\contentsline {section}{\nonumberline K\IeC {\"a}sesp\IeC {\"a}tzle}{31}{section*.41}
+\contentsline {section}{\nonumberline Paprika-Risotto}{31}{section*.42}
+\contentsline {section}{\nonumberline Paella}{32}{section*.43}
+\contentsline {section}{\nonumberline Paella Valenciana}{32}{section*.44}
+\contentsline {chapter}{\nonumberline Gem\IeC {\"u}se}{33}{chapter*.45}
+\contentsline {section}{\nonumberline Rotkohl}{34}{section*.46}
+\contentsline {section}{\nonumberline Kartoffel-Zucchini-Gratin}{34}{section*.47}
+\contentsline {section}{\nonumberline Fagioli all'Uccelletto}{35}{section*.48}
+\contentsline {section}{\nonumberline Rosenkohl}{35}{section*.49}
+\contentsline {section}{\nonumberline Kohlrabi}{35}{section*.50}
+\contentsline {section}{\nonumberline Gr\IeC {\"u}nkohl}{36}{section*.51}
+\contentsline {section}{\nonumberline Blumenkohl asiatisch}{36}{section*.52}
+\contentsline {chapter}{\nonumberline Beilagen}{37}{chapter*.53}
+\contentsline {section}{\nonumberline Kartoffellpl\IeC {\"a}tzchen}{38}{section*.54}
+\contentsline {section}{\nonumberline Semmelkn\IeC {\"o}del}{38}{section*.55}
+\contentsline {section}{\nonumberline Brezen-Kn"odel}{39}{section*.56}
+\contentsline {section}{\nonumberline Kn\IeC {\"o}del mit Wirsing}{39}{section*.57}
+\contentsline {section}{\nonumberline Bratkartoffeln}{40}{section*.58}
+\contentsline {section}{\nonumberline Reibekuchen}{40}{section*.59}
+\contentsline {section}{\nonumberline Frischk"ase Gnocchi}{40}{section*.60}
+\contentsline {section}{\nonumberline Quadrucci di Patate al Finocchio}{41}{section*.61}
+\contentsline {chapter}{\nonumberline Fisch \& Meeresfr\IeC {\"u}chte}{43}{chapter*.62}
+\contentsline {section}{\nonumberline Gambas al ajillo}{44}{section*.63}
+\contentsline {section}{\nonumberline Zander an Rahmkraut}{44}{section*.64}
+\contentsline {section}{\nonumberline Lachsfilet}{45}{section*.65}
+\contentsline {section}{\nonumberline Lachsr\IeC {\"o}llchen}{45}{section*.66}
+\contentsline {section}{\nonumberline Gew\IeC {\"u}rzlachs}{46}{section*.67}
+\contentsline {chapter}{\nonumberline Fleisch}{47}{chapter*.68}
+\contentsline {section}{\nonumberline Rinderschmorbraten}{48}{section*.69}
+\contentsline {section}{\nonumberline Rinderrouladen}{49}{section*.70}
+\contentsline {section}{\nonumberline Rheinischer Sauerbraten}{50}{section*.71}
+\contentsline {section}{\nonumberline Frikadellen}{50}{section*.72}
+\contentsline {section}{\nonumberline Wirsing-Rouladen}{51}{section*.73}
+\contentsline {section}{\nonumberline Bigos}{51}{section*.74}
+\contentsline {section}{\nonumberline Gulasch}{52}{section*.75}
+\contentsline {section}{\nonumberline Indisches Lammcurry}{53}{section*.76}
+\contentsline {section}{\nonumberline Agnello in Fricassea}{53}{section*.77}
+\contentsline {section}{\nonumberline Lammkeule}{54}{section*.78}
+\contentsline {chapter}{\nonumberline Wild \& Gefl\IeC {\"u}gel}{55}{chapter*.79}
+\contentsline {section}{\nonumberline Coq Au Vin}{56}{section*.80}
+\contentsline {section}{\nonumberline Geschmorte Poularde}{56}{section*.81}
+\contentsline {section}{\nonumberline Paprika Huhn}{57}{section*.82}
+\contentsline {section}{\nonumberline H\IeC {\"a}hnchenbrust auf K\IeC {\"u}rbisp\IeC {\"u}ree}{57}{section*.83}
+\contentsline {section}{\nonumberline Estragonhuhn}{58}{section*.84}
+\contentsline {section}{\nonumberline Gebratene Entenbrust}{59}{section*.85}
+\contentsline {section}{\nonumberline Geschmorte Kaninchen-Keule}{59}{section*.86}
+\contentsline {section}{\nonumberline Wildschwein-R\IeC {\"u}cken}{60}{section*.87}
+\contentsline {chapter}{\nonumberline Nachtisch}{61}{chapter*.88}
+\contentsline {section}{\nonumberline Cr\IeC {\`e}me Brul\IeC {\'e}e}{62}{section*.89}
+\contentsline {section}{\nonumberline Cr\IeC {\`e}me Caramel}{62}{section*.90}
+\contentsline {section}{\nonumberline Mousse au chocolat}{63}{section*.91}
+\contentsline {section}{\nonumberline Mandel-Zabaione}{63}{section*.92}
+\contentsline {section}{\nonumberline Tiramisu}{64}{section*.93}
+\contentsline {section}{\nonumberline Grie{\ss }pudding}{64}{section*.94}
+\contentsline {chapter}{\nonumberline Geb\IeC {\"a}ck}{65}{chapter*.95}
+\contentsline {section}{\nonumberline Hummelkuchen}{66}{section*.96}
+\contentsline {section}{\nonumberline Philadelphia Torte}{66}{section*.97}
+\contentsline {section}{\nonumberline Rotweinkuchen}{67}{section*.98}
+\contentsline {section}{\nonumberline Mutzen}{67}{section*.99}
+\contentsline {section}{\nonumberline Muffins}{68}{section*.100}
+\contentsline {section}{\nonumberline Waffeln}{68}{section*.101}
+\contentsline {section}{\nonumberline Spritzgeb\IeC {\"a}ck}{69}{section*.102}
+\contentsline {section}{\nonumberline Hefezopf}{69}{section*.103}
+\contentsline {chapter}{\nonumberline Index}{71}{chapter*.104}

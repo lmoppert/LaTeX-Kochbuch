@@ -11,4 +11,4 @@ syntax: glob
 *.out
 *.sw?
 *.toc
-
+*.el
