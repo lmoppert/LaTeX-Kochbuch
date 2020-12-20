@@ -3,12 +3,12 @@
 %%% mode: latex
 %%% TeX-master: t
 %%% End:
-% 
+%
 % -----------------------------------------------------------------------------
 %  Kochbuch - Moppels Rezeptsammlung                          % vim:sw=2:ts=2
 % -----------------------------------------------------------------------------
 %
-\documentclass[11pt, a4paper, toc=index, twoside, DIV12, BCOR10mm]{scrbook}
+\documentclass[fontsize=11pt, paper=a4, toc=index, DIV=12, BCOR=10mm]{scrbook}
   \usepackage{kochbuch}
   \hypersetup{
     pdftitle={Moppels Rezeptsammlung},
@@ -54,21 +54,30 @@
   \newpage
   \input{Grundlagen/Gefluegelfond}
   \input{Grundlagen/Knoblauch-Creme}
+  \newpage
   \input{Grundlagen/Currysauce}
-  \input{Grundlagen/Grillmarinade}
+  \input{Grundlagen/Apfel-Currycreme}
   \input{Grundlagen/Erdnusssauce}
+  \newpage
+  \input{Grundlagen/Hoisin}
+  \input{Grundlagen/Grillmarinade}
 \category[Bilder/Suppe.jpg]{Suppen \& Eintöpfe}
   \input{Suppen/Chili_Con_Carne}
   \input{Suppen/Serbische_Bohnensuppe}
   \input{Suppen/Erbsensuppe}
   \input{Suppen/Kartoffelsuppe}
   \newpage
-  \input{Suppen/Kuerbis-Suppe}
+  \input{Suppen/Kartoffelpilzsuppe}
   \input{Suppen/Sauerampfersuppe}
+  \newpage
+  \input{Suppen/Kuerbis-Suppe}
 \category[Bilder/Vorspeise.jpg]{Vorspeisen \& Kleine Gerichte}
   \input{Vorspeisen/Pizza}
-  \input{Vorspeisen/Burritos}
+  \newpage
   \input{Vorspeisen/Schiacciata}
+  \input{Vorspeisen/Lahmacun}
+  \newpage
+  \input{Vorspeisen/Burritos}
   \input{Vorspeisen/Tomatenbrot}
   \newpage
   \input{Vorspeisen/Ceasar_Chicken_Salat}
@@ -86,14 +95,16 @@
   \input{Pasta/Spaghetti_Carbonara}
   \input{Pasta/Lasagne}
   \newpage
+  \input{Pasta/Rigatoni_Bolognese}
   \input{Pasta/Pasta_Mista}
-  \input{Pasta/Orecchiette}
   \newpage
+  \input{Pasta/Orecchiette}
   \input{Pasta/Kaesespaetzle}
-  \input{Pasta/Paprika_Risotto}
   \newpage
   \input{Pasta/Paella}
   \input{Pasta/Paella_Valenciana}
+  \newpage
+  \input{Pasta/Paprika_Risotto}
 \category[Bilder/Gemuese.jpg]{Gemüse}
   \input{Gemuese/Rotkohl}
   \input{Gemuese/Kartoffelgratin}
@@ -103,17 +114,23 @@
   \input{Gemuese/Kohlrabi}
   \newpage
   \input{Gemuese/Gruenkohl}
+  \input{Gemuese/Spitzkohlauflauf}
+  \newpage
+  \input{Gemuese/Blumenkohl-Asiatisch}
   \input{Gemuese/Blumenkohl}
+  \newpage
+  \input{Gemuese/Spitzkohl}
 \category[Bilder/Beilage.jpg]{Beilagen}
   \input{Beilagen/Kartoffelplaetzchen}
-  \input{Beilagen/Semmelknoedel}
+  \input{Beilagen/Reibekuchen}
   \newpage
+  \input{Beilagen/Semmelknoedel}
+  \input{Beilagen/Spinatknoedel}
   \input{Beilagen/Brezenknoedel}
   \input{Beilagen/Wirsing-Knoedel}
-  \input{Beilagen/Bratkartoffeln}
-  \input{Beilagen/Reibekuchen}
-  \input{Beilagen/Frischkaese_Gnocchi}
   \newpage
+  \input{Beilagen/Bratkartoffeln}
+  \input{Beilagen/Frischkaese_Gnocchi}
   \input{Beilagen/Quadrucci}
 \category[Bilder/Fisch.jpg]{Fisch \& Meeresfrüchte}
   \input{Fisch/Gambas_al_ajillo}
@@ -140,6 +157,7 @@
   \input{Fleisch/Agnello}
   \newpage
   \input{Fleisch/Lammkeule}
+  \input{Fleisch/Schweinemedaillons}
 \category[Bilder/Wild.jpg]{Wild \& Geflügel}
   \input{Wild/Coq_Au_Vin}
   \input{Wild/Maispoularde}
@@ -152,6 +170,8 @@
   \input{Wild/Kaninchenkeule}
   \newpage
   \input{Wild/Wildschweinruecken}
+  \newpage
+  \input{Wild/Gaensebrust}
 \category[Bilder/Dessert.jpg]{Nachtisch}
   \input{Nachtisch/Creme_Brulee}
   \input{Nachtisch/Creme_Caramel}
@@ -168,11 +188,14 @@
   \input{Gebaeck/Rotweinkuchen}
   \input{Gebaeck/Mutzen}
   \newpage
+  \input{Gebaeck/Erdbeerkuchen}
   \input{Gebaeck/Muffins}
   \input{Gebaeck/Waffeln}
+  \input{Gebaeck/Hefezopf}
+  \input{Gebaeck/Spritzgebaeck_Uta}
   \newpage
   \input{Gebaeck/Spritzgebaeck}
-  \input{Gebaeck/Hefezopf}
-  \newpage
+  \input{Gebaeck/Husarenkrapfen}
+  \input{Gebaeck/Vanillekipferl}
 \showindex
 \end{document}

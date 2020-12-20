@@ -1,0 +1,12 @@
+.DS_Store
+*~
+~$*
+*.aux
+*.idx
+*.ilg
+*.ind
+*.log
+*.out
+*.sw?
+*.toc
+*.el
