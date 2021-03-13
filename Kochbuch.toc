@@ -116,7 +116,7 @@
 \contentsline {section}{\nonumberline Muffins}{79}{section*.116}%
 \contentsline {section}{\nonumberline Mutzen}{80}{section*.117}%
 \contentsline {section}{\nonumberline Husarenkrapfen}{80}{section*.118}%
-\contentsline {section}{\nonumberline Spritzgebäck Uta}{81}{section*.119}%
-\contentsline {section}{\nonumberline Spritzgebäck}{81}{section*.120}%
-\contentsline {section}{\nonumberline Vanillekipferl}{81}{section*.121}%
+\contentsline {section}{\nonumberline Vanillekipferl}{80}{section*.119}%
+\contentsline {section}{\nonumberline Spritzgebäck Uta}{81}{section*.120}%
+\contentsline {section}{\nonumberline Spritzgebäck}{81}{section*.121}%
 \contentsline {chapter}{\nonumberline Index}{83}{chapter*.122}%
